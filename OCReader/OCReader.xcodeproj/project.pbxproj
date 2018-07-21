@@ -10,6 +10,7 @@
 		FF66741C2102437E00CF3F0B /* backImg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FF66741B2102437E00CF3F0B /* backImg.jpg */; };
 		FF66741E2102C65C00CF3F0B /* topMenuForOC.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF66741D2102C65C00CF3F0B /* topMenuForOC.xib */; };
 		FF6674202102C6E200CF3F0B /* mback@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF66741F2102C6E100CF3F0B /* mback@2x.png */; };
+		FF6674222102D45E00CF3F0B /* ReadMe in Resources */ = {isa = PBXBuildFile; fileRef = FF6674212102D45E00CF3F0B /* ReadMe */; };
 		FF67C7CD210227BB00776071 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FF67C7CC210227BB00776071 /* AppDelegate.m */; };
 		FF67C7D0210227BB00776071 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF67C7CF210227BB00776071 /* ViewController.m */; };
 		FF67C7D3210227BB00776071 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF67C7D1210227BB00776071 /* Main.storyboard */; };
@@ -47,6 +48,7 @@
 		FF66741B2102437E00CF3F0B /* backImg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = backImg.jpg; path = ../Assets.xcassets/backImg.imageset/backImg.jpg; sourceTree = "<group>"; };
 		FF66741D2102C65C00CF3F0B /* topMenuForOC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = topMenuForOC.xib; sourceTree = "<group>"; };
 		FF66741F2102C6E100CF3F0B /* mback@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mback@2x.png"; path = "../Assets.xcassets/mback.imageset/mback@2x.png"; sourceTree = "<group>"; };
+		FF6674212102D45E00CF3F0B /* ReadMe */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe; sourceTree = SOURCE_ROOT; };
 		FF67C7C8210227BB00776071 /* OCReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OCReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF67C7CB210227BB00776071 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FF67C7CC210227BB00776071 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				FF67C8062102284400776071 /* SwiftLibXML2 */,
 				FF67C8022102284400776071 /* ThirdKit */,
 				FF67C7E12102282B00776071 /* FitOC */,
+				FF6674212102D45E00CF3F0B /* ReadMe */,
 				FF67C7CB210227BB00776071 /* AppDelegate.h */,
 				FF67C7CC210227BB00776071 /* AppDelegate.m */,
 				FF67C7CE210227BB00776071 /* ViewController.h */,
@@ -328,6 +331,7 @@
 			files = (
 				FF67C7D8210227C000776071 /* LaunchScreen.storyboard in Resources */,
 				FF67C8082102284400776071 /* 郭黄之恋.txt in Resources */,
+				FF6674222102D45E00CF3F0B /* ReadMe in Resources */,
 				FF66741C2102437E00CF3F0B /* backImg.jpg in Resources */,
 				FF67C8092102284400776071 /* 每天懂一点好玩心理学.epub in Resources */,
 				FF66741E2102C65C00CF3F0B /* topMenuForOC.xib in Resources */,
